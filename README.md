@@ -20,3 +20,23 @@ Prerequisites
     .Node.js (v18 or later)
     .Python (v3 or later)
     .pip (Python package manager)
+
+Clone the repository:
+      >>> git clone <repository-url>
+      >>> cd Nexroof
+
+Install dependencies:
+
+Start the development server:
+>>> npm run dev
+Start backend server:
+>>> flask run
+
+### Contributors
+David is the only contributor currently. open to other collaboration.
+
+### Related Projects
+MRM: shop.mabati.com
+
+### License
+N/A - Pending
